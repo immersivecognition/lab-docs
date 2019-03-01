@@ -9,5 +9,4 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ## Images
 
-Inline-style: 
 ![Here is an image](sample-image.png)
