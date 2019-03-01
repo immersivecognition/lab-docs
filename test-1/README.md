@@ -10,4 +10,4 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 ## Images
 
 Inline-style: 
-![Here is an image](test-1/sample-image.png)
+![Here is an image](sample-image.png)
